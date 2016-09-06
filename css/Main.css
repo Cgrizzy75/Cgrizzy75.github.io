@@ -1,0 +1,36 @@
+body {
+    background-color:  #A9E190;
+}
+h1 {
+	font-family: 'Baloo Tamma', cursive;
+}   
+p {
+	font-family: 'Baloo Tamma', cursive;
+}   
+
+#about-me-wrap {
+    background-color: #fff;
+    padding:  50px;
+    width:  60%;
+    margin:   100px auto;
+}
+
+#profile-wrap {  
+    float: left;
+    width: 40%;
+    margin-right: 10;
+}
+
+#bio-wrap {
+	float: right;
+	width: 50%;
+}
+
+ .clear {
+ 	clear: both;
+}
+
+
+ul.profile-social-links {
+	padding: 0;
+}
